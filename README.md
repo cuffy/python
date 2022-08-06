@@ -30,7 +30,6 @@ para asi identificar de que tipo son. En la siguiente tabla se define cada prefi
 | 06 | De 15 a 30 minutos | Módulos
 | 07 | De 15 a 30 minutos | Ficheros
 | 08 | De 15 a 30 minutos | Class
-| 09 | De 15 a 30 minutos | Otros, Analizar errores, librerias destacadas...
 | 30 | De 30 a 45 minutos | Ejercicios con una complejidad normal
 | 60 | De > 45 minutos | Ejercicios con una complejidad difícil.
 

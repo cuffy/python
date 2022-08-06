@@ -1,4 +1,4 @@
-# Sumar dos números
+# Modificar texto
 ## Enunciado
 Realizar el programa que sea capaz de leer de teclado un texto y
 mostrar el texto:

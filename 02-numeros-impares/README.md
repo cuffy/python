@@ -18,7 +18,8 @@ Controlar que no introduzca un número inferior a 1
 ```
 1 3 5 7 9 11 13 
 ```
-2.El resultado es el siguiente:
+
+2. El resultado es el siguiente:
 ```
 El número tiene que ser > 1 
 ```

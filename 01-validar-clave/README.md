@@ -31,21 +31,3 @@ Las contraseñas no coinciden.
 ```
 ### Solución
 El contenido del código se encuentra en el fichero: **main.py**
-
-## Enunciado Amplicado
-Ampliar la práctica anterior de forma que sume, reste y multiplique los dos números
-introducidos. 
-
-### Test data
-#### Input data
-Se introduce los números: `3 y 4`
-
-#### Output
-```
-El resultado de la suma es: 7
-El resultado de la resta es: -1
-El resultado de la multiplicación es: 12
-El resultado de la división es: 0.75
-```
-### Solución
-El contenido del código se encuentra en el fichero: **mainextended.py**

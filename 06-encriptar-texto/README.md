@@ -9,7 +9,7 @@ Realizar el programa que sea capaz mediante tres argumentos realizar:
    3. EL RESULTADO sera un mensaje de si coinciden o no los dos textos.
 
 
-* Se utilizaran los módulos: sys y hashlib.
+* Se utilizaran los módulos: sys(para los argumentos del script) y hashlib(para encriptar el texto).
 * Se tiene que utilizar todo lo aprendido anteriormente.
 
 ### Pistas
